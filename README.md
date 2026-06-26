@@ -1,3 +1,2 @@
-# Clickable-Coffee-Shop-Android-App
-This is just like the Clickable Coffee Shop App but it was created for the Google Play Store using Android Studio, Java, XML, and Gradle.
+An incremental clicker game about building a coffee shop through upgrades, automation, and progression. [Android/2020].
 https://play.google.com/store/apps/details?id=io.game.clickablecoffeeshopandroidedition&hl=en_CA&gl=US
